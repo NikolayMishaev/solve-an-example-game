@@ -1,4 +1,4 @@
-# Игра «Solve-an-example-game»
+# Игра «Solve an example»
 ***
 [запуск игры в браузере](https://nikolaymishaev.github.io/solve-an-example-game/solve-an-example-game.html)
 
