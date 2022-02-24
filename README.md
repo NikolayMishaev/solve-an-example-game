@@ -8,8 +8,8 @@
 - выложена без рефакторинга на момент создания
 
 ## Скриншоты
-![общий вид игры](https://github.com/NikolayMishaev/solve-an-example-game/raw/main/screenshot 01.jpg)
-![общий вид игры](https://github.com/NikolayMishaev/solve-an-example-game/raw/main/screenshot 02.jpg)
+![общий вид игры](https://github.com/NikolayMishaev/solve-an-example-game/raw/main/screenshot-01.jpg)
+![общий вид игры](https://github.com/NikolayMishaev/solve-an-example-game/raw/main/screenshot-02.jpg)
 
 ## Технологии
 - HTML
