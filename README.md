@@ -1,6 +1,6 @@
 # Игра «Solve an example»
 ***
-[запуск игры в браузере](https://nikolaymishaev.github.io/solve-an-example-game/solve-an-example-game.html)
+- [запуск игры в браузере](https://nikolaymishaev.github.io/solve-an-example-game/solve-an-example-game.html)
 
 ## Описание
 - игра, в которой двое игроков за одним ПК решают случайно генерируемые примеры на скорость
